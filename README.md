@@ -1,4 +1,5 @@
-# quack 
+# Quack Social
+
 # Description
 Quack is an application that allows user's to make an account and interact with other users.  Through this interaction they can make a post or comment on another's.  If logged out the user can only see the posts but not the comments that belong to it.  The post is able to be liked or disliked at an umlimited amount of times just to allow the user have fun with it.  It is anonymous to would likes or dislikes the post so it keeps everything private for the user.
 
@@ -17,7 +18,7 @@ To install necessary dependencies, run the following command:
 - npm seeds
 
 # Deployed Link
-[Quack](https://quack-project.herokuapp.com)
+[Quack](https://quack-social-app.herokuapp.com/)
 
 # Preview
 ![Render](./public/images/deployed.png)
